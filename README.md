@@ -1,6 +1,6 @@
 # 🏆 Competitive Programming Repository
 
-Welcome to my central repository for **Competitive Programming** and **Algorithmic Problem Solving**. This repository contains my accepted solutions from various online judges and contests, systematically organized for quick reference and tracking.
+Welcome to my central repository for **Competitive Programming** and **Algorithmic Problem Solving**. This repository contains my accepted solutions from various online judges and contests, systematically organized for quick reference and tracking...
 
 ---
 
